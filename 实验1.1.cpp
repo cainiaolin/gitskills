@@ -7,5 +7,6 @@ int main()
 	b=11;
 	c = a+b;
 	cout<<"a+b="<<c<<endl;
+	//
 	return 0;
 }
